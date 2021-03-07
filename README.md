@@ -1,1 +1,6 @@
-Solutions for the "Mathematische Programmierung" Course problems. 
+This repo contains Java projects created for the aim of solving the provided assignments during the "Mathematical Programming" course. It has Java Swing GUI and MVC design pattern implementations for the following algorithms: 
+1. [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher) and [Vigenère cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher). It can be accessed [here](https://github.com/MahmoudAbderahman/Mathematical-Programming-Solutions/tree/master/Caesar-%20und%20Vigenere-Code).
+2. [Euclidean algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm). It can be accessed [here](https://github.com/MahmoudAbderahman/Mathematical-Programming-Solutions/tree/master/Euklidischer%20Algorithmus).
+3. [Fiat-Shamir-Protokoll](https://de.wikipedia.org/wiki/Fiat-Shamir-Protokoll). It can accessed [here](https://github.com/MahmoudAbderahman/Mathematical-Programming-Solutions/tree/master/FiatShamirProtokoll).
+4. [RSA algorithm](https://simple.wikipedia.org/wiki/RSA_algorithm). It can be accessed [here](https://simple.wikipedia.org/wiki/RSA_algorithm).
+5. [Number basis converter](https://github.com/MahmoudAbderahman/Mathematical-Programming-Solutions/tree/master/Zahlendarstellungen). 
