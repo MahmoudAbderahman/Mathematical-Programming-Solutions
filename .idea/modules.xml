@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Mathematical Programming Solutions/Caesar- und Vigenere-Code/Caesar- und Vigenere-Code.iml" filepath="$PROJECT_DIR$/Mathematical Programming Solutions/Caesar- und Vigenere-Code/Caesar- und Vigenere-Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mathematical Programming Solutions/Euklidischer Algorithmus/Euklidischer Algorithmus.iml" filepath="$PROJECT_DIR$/Mathematical Programming Solutions/Euklidischer Algorithmus/Euklidischer Algorithmus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mathematical Programming Solutions/FiatShamirProtokoll/FiatShamirProtokoll.iml" filepath="$PROJECT_DIR$/Mathematical Programming Solutions/FiatShamirProtokoll/FiatShamirProtokoll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mathematical Programming Solutions/RSA-Algorithmus/RSA-Algorithmus.iml" filepath="$PROJECT_DIR$/Mathematical Programming Solutions/RSA-Algorithmus/RSA-Algorithmus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mathematical Programming Solutions/Zahlendarstellungen/Zahlendarstellungen.iml" filepath="$PROJECT_DIR$/Mathematical Programming Solutions/Zahlendarstellungen/Zahlendarstellungen.iml" />
+    </modules>
+  </component>
+</project>
